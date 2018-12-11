@@ -2,7 +2,7 @@ var APP_DATA = {
   "scenes": [
     {
       "id": "0-riva-evleri-vaziyet",
-      "name": "Ege Riva Evleri Vaziyet",
+      "name": "Ege Riva Konakları Vaziyet",
       "levels": [
         {
           "tileSize": 256,
