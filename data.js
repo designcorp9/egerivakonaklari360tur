@@ -30,6 +30,12 @@ var APP_DATA = {
           "pitch": 0.8330986269664233,
           "rotation": 0,
           "target": "1-a-etap-giris"
+        },
+        {
+          "yaw": -2.726146917587842,
+          "pitch": 0.9085328323372046,
+          "rotation": 0,
+          "target": "6-b-etap-giris"
         }
       ],
       "infoHotspots": []
